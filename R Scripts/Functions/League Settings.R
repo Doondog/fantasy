@@ -85,6 +85,7 @@ sourcesOfProjectionsAbbreviation <- c("cbs", "espn", "yahoo") #c("accu", "cbs1",
 
 #Weights applied to each source in calculation of weighted average of projections
 weight_accu <- 1    #Accuscore
+weight_cbs <- 1     #weekly CBS
 weight_cbs1 <- 1    #Jamey Eisenberg
 weight_cbs2 <- 1    #Dave Richard"
 weight_eds <- 1     #EDS Football

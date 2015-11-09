@@ -1,0 +1,351 @@
+"star_fftoday","player_fftoday","team_fftoday","bye_fftoday","passComp_fftoday","passAtt_fftoday","passYds_fftoday","passTds_fftoday","passInt_fftoday","rushAtt_fftoday","rushYds_fftoday","rushTds_fftoday","pts_fftoday","pos","rec_fftoday","recYds_fftoday","recTds_fftoday","returnTds_fftoday","twoPts_fftoday","fumbles_fftoday","name_fftoday","name","overallRank_fftoday","positionRank_fftoday"
+"Â ","Â Andrew Luck","IND","10",396,638,4788,36,15,60,289,3,430.3,"QB",NA,NA,NA,NA,NA,NA,"Andrew Luck","ANDREWLUCK",1,1
+"Â ","Â Aaron Rodgers","GB","7",351,532,4361,35,8,57,255,2,395.6,"QB",NA,NA,NA,NA,NA,NA,"Aaron Rodgers","AARONRODGERS",2,2
+"Â ","Â Russell Wilson","SEA","9",298,472,3589,24,10,106,616,4,361.1,"QB",NA,NA,NA,NA,NA,NA,"Russell Wilson","RUSSELLWILSON",3,3
+"Â ","Â Peyton Manning","DEN","7",385,575,4430,34,12,30,-15,0,356,"QB",NA,NA,NA,NA,NA,NA,"Peyton Manning","PEYTONMANNING",4,4
+"Â ","Â Matthew Stafford","DET","9",368,614,4360,28,14,28,83,2,350.3,"QB",NA,NA,NA,NA,NA,NA,"Matthew Stafford","MATTHEWSTAFFORD",5,5
+"Â ","Â Matt Ryan","ATL","10",403,611,4520,27,15,26,89,1,348.9,"QB",NA,NA,NA,NA,NA,NA,"Matt Ryan","MATTRYAN",6,6
+"Â ","Â Ben Roethlisberger","PIT","11",374,585,4444,29,12,19,59,0,344.1,"QB",NA,NA,NA,NA,NA,NA,"Ben Roethlisberger","BENROETHLISBERGER",7,7
+"Â ","Â Cam Newton","CAR","5",292,487,3460,21,13,101,555,5,342.5,"QB",NA,NA,NA,NA,NA,NA,"Cam Newton","CAMNEWTON",8,8
+"Â ","Â Tom Brady","NE","4",364,578,4101,31,11,19,32,1,338.3,"QB",NA,NA,NA,NA,NA,NA,"Tom Brady","TOMBRADY",9,9
+"Â ","Â Tony Romo","DAL","6",346,533,3994,32,12,21,45,1,338.2,"QB",NA,NA,NA,NA,NA,NA,"Tony Romo","TONYROMO",10,10
+"Â ","Â Philip Rivers","SD","10",373,565,4240,29,14,46,83,0,336.3,"QB",NA,NA,NA,NA,NA,NA,"Philip Rivers","PHILIPRIVERS",11,11
+"Â ","Â Drew Brees","NO","11",388,579,4226,28,14,19,40,1,333.3,"QB",NA,NA,NA,NA,NA,NA,"Drew Brees","DREWBREES",12,12
+"Â ","Â Ryan Tannehill","MIA","5",359,561,3928,26,14,54,256,1,332,"QB",NA,NA,NA,NA,NA,NA,"Ryan Tannehill","RYANTANNEHILL",13,13
+"Â ","Â Eli Manning","NYG","11",362,593,4211,29,18,16,32,0,329.8,"QB",NA,NA,NA,NA,NA,NA,"Eli Manning","ELIMANNING",14,14
+"Â ","Â Colin Kaepernick","SF","10",290,483,3475,22,11,93,557,2,329.5,"QB",NA,NA,NA,NA,NA,NA,"Colin Kaepernick","COLINKAEPERNICK",15,15
+"Â ","Â Jay Cutler","CHI","7",350,564,3950,25,16,40,167,1,320.2,"QB",NA,NA,NA,NA,NA,NA,"Jay Cutler","JAYCUTLER",16,16
+"Â ","Â Teddy Bridgewater","MIN","5",317,511,3578,24,13,91,245,1,305.4,"QB",NA,NA,NA,NA,NA,NA,"Teddy Bridgewater","TEDDYBRIDGEWATER",17,17
+"Â ","Â Andy Dalton","CIN","7",328,530,3655,24,15,56,175,1,302.3,"QB",NA,NA,NA,NA,NA,NA,"Andy Dalton","ANDYDALTON",18,18
+"Â ","Â Joe Flacco","BAL","9",329,540,3779,24,15,35,84,1,299.4,"QB",NA,NA,NA,NA,NA,NA,"Joe Flacco","JOEFLACCO",19,19
+"Â ","Â Alex Smith","KC","9",300,476,3427,22,10,61,289,1,294.3,"QB",NA,NA,NA,NA,NA,NA,"Alex Smith","ALEXSMITH",20,20
+"Â ","Â Jameis Winston","TB","6",287,486,3597,22,17,45,181,1,292,"QB",NA,NA,NA,NA,NA,NA,"Jameis Winston","JAMEISWINSTON",21,21
+"Â ","Â Carson Palmer","ARI","9",338,546,3930,22,13,9,17,0,286.2,"QB",NA,NA,NA,NA,NA,NA,"Carson Palmer","CARSONPALMER",22,22
+"Â ","Â Derek Carr","OAK","6",314,524,3560,23,14,23,79,1,283.9,"QB",NA,NA,NA,NA,NA,NA,"Derek Carr","DEREKCARR",23,23
+"Â ","Â Sam Bradford","PHI","8",293,466,3446,22,12,24,78,1,274.1,"QB",NA,NA,NA,NA,NA,NA,"Sam Bradford","SAMBRADFORD",24,24
+"Â ","Â Blake Bortles","JAC","8",284,481,3226,17,14,66,385,1,273.8,"QB",NA,NA,NA,NA,NA,NA,"Blake Bortles","BLAKEBORTLES",25,25
+"Â ","Â Marcus Mariota","TEN","4",270,457,3155,16,13,77,392,2,273,"QB",NA,NA,NA,NA,NA,NA,"Marcus Mariota","MARCUSMARIOTA",26,26
+"Â ","Â Nick Foles","STL","6",297,478,3348,20,13,31,117,1,265.1,"QB",NA,NA,NA,NA,NA,NA,"Nick Foles","NICKFOLES",27,27
+"Â ","Â Jamaal Charles","KC","9",NA,NA,NA,NA,NA,224,1165,10,232.2,"RB",49,377,3,NA,NA,NA,"Jamaal Charles","JAMAALCHARLES",28,1
+"Â ","Â Marshawn Lynch","SEA","9",NA,NA,NA,NA,NA,273,1229,11,231.3,"RB",37,304,2,NA,NA,NA,"Marshawn Lynch","MARSHAWNLYNCH",29,2
+"Â ","Â Adrian Peterson","MIN","5",NA,NA,NA,NA,NA,270,1295,12,230.7,"RB",35,232,1,NA,NA,NA,"Adrian Peterson","ADRIANPETERSON",30,3
+"Â ","Â Eddie Lacy","GB","7",NA,NA,NA,NA,NA,263,1156,10,225.3,"RB",49,377,2,NA,NA,NA,"Eddie Lacy","EDDIELACY",31,4
+"Â ","Â Odell Beckham Jr.","NYG","11",NA,NA,NA,NA,NA,3,21,0,224.7,"WR",102,1446,13,NA,NA,NA,"Odell Beckham Jr.","ODELLBECKHAM",32,1
+"Â ","Â DeMarco Murray","PHI","8",NA,NA,NA,NA,NA,278,1277,9,216.4,"RB",42,287,1,NA,NA,NA,"DeMarco Murray","DEMARCOMURRAY",33,5
+"Â ","Â Le'Veon Bell","PIT","11",NA,NA,NA,NA,NA,227,1045,8,216,"RB",63,515,2,NA,NA,NA,"Le'Veon Bell","LEVEONBELL",34,6
+"Â ","Â Antonio Brown","PIT","11",NA,NA,NA,NA,NA,4,26,0,215.3,"WR",109,1467,11,NA,NA,NA,"Antonio Brown","ANTONIOBROWN",35,2
+"Â ","Â Ryan Fitzpatrick","NYJ","5",220,361,2529,15,11,47,206,1,213.1,"QB",NA,NA,NA,NA,NA,NA,"Ryan Fitzpatrick","RYANFITZPATRICK",36,28
+"Â ","Â C.J. Anderson","DEN","7",NA,NA,NA,NA,NA,259,1165,9,211.1,"RB",46,346,1,NA,NA,NA,"C.J. Anderson","CJANDERSON",37,7
+"Â ","Â Demaryius Thomas","DEN","7",NA,NA,NA,NA,NA,0,0,0,210.9,"WR",98,1389,12,NA,NA,NA,"Demaryius Thomas","DEMARYIUSTHOMAS",38,3
+"Â ","Â Matt Forte","CHI","7",NA,NA,NA,NA,NA,257,1079,7,210.4,"RB",62,485,2,NA,NA,NA,"Matt Forte","MATTFORTE",39,8
+"Â ","Â Kirk Cousins","WAS","8",245,395,2885,15,10,10,35,0,207.8,"QB",NA,NA,NA,NA,NA,NA,"Kirk Cousins","KIRKCOUSINS",40,29
+"Â ","Â Dez Bryant","DAL","6",NA,NA,NA,NA,NA,0,0,0,206.5,"WR",90,1285,13,NA,NA,NA,"Dez Bryant","DEZBRYANT",41,4
+"","Â Tyrod Taylor","BUF","8",221,368,2468,14,9,47,205,1,205.9,"QB",NA,NA,NA,NA,NA,NA,"Tyrod Taylor","TYRODTAYLOR",42,30
+"Â ","Â Josh McCown","CLE","11",223,385,2654,13,11,20,95,1,200.2,"QB",NA,NA,NA,NA,NA,NA,"Josh McCown","JOSHMCCOWN",43,31
+"Â ","Â Julio Jones","ATL","10",NA,NA,NA,NA,NA,2,11,0,196.2,"WR",94,1411,9,NA,NA,NA,"Julio Jones","JULIOJONES",44,5
+"Â ","Â Justin Forsett","BAL","9",NA,NA,NA,NA,NA,209,1045,7,193.9,"RB",60,414,1,NA,NA,NA,"Justin Forsett","JUSTINFORSETT",45,9
+"Â ","Â Jeremy Hill","CIN","7",NA,NA,NA,NA,NA,241,1135,8,191.1,"RB",32,236,1,NA,NA,NA,"Jeremy Hill","JEREMYHILL",46,10
+"Â ","Â A.J. Green","CIN","7",NA,NA,NA,NA,NA,0,0,0,189,"WR",96,1350,9,NA,NA,NA,"A.J. Green","AJGREEN",47,6
+"Â ","Â Mark Ingram","NO","11",NA,NA,NA,NA,NA,254,1116,9,183.1,"RB",28,175,0,NA,NA,NA,"Mark Ingram","MARKINGRAM",48,11
+"Â ","Â Calvin Johnson","DET","9",NA,NA,NA,NA,NA,0,0,0,182.9,"WR",78,1229,10,NA,NA,NA,"Calvin Johnson","CALVINJOHNSON",49,7
+"Â ","Â DeAndre Hopkins","HOU","9",NA,NA,NA,NA,NA,0,0,0,179.5,"WR",93,1315,8,NA,NA,NA,"DeAndre Hopkins","DEANDREHOPKINS",50,8
+"Â ","Â LeSean McCoy","BUF","8",NA,NA,NA,NA,NA,246,1033,7,175.8,"RB",34,245,1,NA,NA,NA,"LeSean McCoy","LESEANMCCOY",51,12
+"Â ","Â Lamar Miller","MIA","5",NA,NA,NA,NA,NA,219,1031,7,174.7,"RB",35,236,1,NA,NA,NA,"Lamar Miller","LAMARMILLER",52,13
+"Â ","Â Rob Gronkowski","NE","4",NA,NA,NA,NA,NA,NA,NA,NA,172.9,"TE",75,1069,11,NA,NA,NA,"Rob Gronkowski","ROBGRONKOWSKI",53,1
+"Â ","Â Randall Cobb","GB","7",NA,NA,NA,NA,NA,3,34,0,171.1,"WR",83,1137,9,NA,NA,NA,"Randall Cobb","RANDALLCOBB",54,9
+"Â ","Â Frank Gore","IND","10",NA,NA,NA,NA,NA,211,885,8,170,"RB",35,275,1,NA,NA,NA,"Frank Gore","FRANKGORE",55,14
+"Â ","Â Alshon Jeffery","CHI","7",NA,NA,NA,NA,NA,4,27,0,167.2,"WR",80,1105,9,NA,NA,NA,"Alshon Jeffery","ALSHONJEFFERY",56,10
+"Â ","Â Melvin Gordon","SD","10",NA,NA,NA,NA,NA,223,1026,6,165.5,"RB",27,209,1,NA,NA,NA,"Melvin Gordon","MELVINGORDON",57,15
+"Â ","Â Mike Evans","TB","6",NA,NA,NA,NA,NA,0,0,0,163.4,"WR",73,1094,9,NA,NA,NA,"Mike Evans","MIKEEVANS",58,11
+"Â ","Â Latavius Murray","OAK","6",NA,NA,NA,NA,NA,205,965,6,161,"RB",28,225,1,NA,NA,NA,"Latavius Murray","LATAVIUSMURRAY",59,16
+"Â ","Â Brian Hoyer","HOU","9",187,316,2150,12,10,11,22,0,157.7,"QB",NA,NA,NA,NA,NA,NA,"Brian Hoyer","BRIANHOYER",60,32
+"Â ","Â LeGarrette Blount","NE","4",NA,NA,NA,NA,NA,222,977,9,155.8,"RB",7,41,0,NA,NA,NA,"LeGarrette Blount","LEGARRETTEBLOUNT",61,17
+"Â ","Â Alfred Morris","WAS","8",NA,NA,NA,NA,NA,227,1020,7,155.4,"RB",14,114,0,NA,NA,NA,"Alfred Morris","ALFREDMORRIS",62,18
+"Â ","Â Jordan Matthews","PHI","8",NA,NA,NA,NA,NA,0,0,0,155.4,"WR",81,1074,8,NA,NA,NA,"Jordan Matthews","JORDANMATTHEWS",62,12
+"Â ","Â Carlos Hyde","SF","10",NA,NA,NA,NA,NA,223,957,7,155.2,"RB",26,175,0,NA,NA,NA,"Carlos Hyde","CARLOSHYDE",64,19
+"Â ","Â T.Y. Hilton","IND","10",NA,NA,NA,NA,NA,2,14,0,151.8,"WR",77,1144,6,NA,NA,NA,"T.Y. Hilton","TYHILTON",65,13
+"Â ","Â Jonathan Stewart","CAR","5",NA,NA,NA,NA,NA,202,887,6,151.6,"RB",28,209,1,NA,NA,NA,"Jonathan Stewart","JONATHANSTEWART",66,20
+"Â ","Â Andre Ellington","ARI","9",NA,NA,NA,NA,NA,167,767,4,151.2,"RB",47,385,2,NA,NA,NA,"Andre Ellington","ANDREELLINGTON",67,21
+"Â ","Â Emmanuel Sanders","DEN","7",NA,NA,NA,NA,NA,0,0,0,146.5,"WR",72,985,8,NA,NA,NA,"Emmanuel Sanders","EMMANUELSANDERS",68,14
+"","Â Joseph Randle","DAL","6",NA,NA,NA,NA,NA,177,884,6,143.9,"RB",27,195,0,NA,NA,NA,"Joseph Randle","JOSEPHRANDLE",69,22
+"Â ","Â Isaiah Crowell","CLE","11",NA,NA,NA,NA,NA,199,836,6,143.8,"RB",23,182,1,NA,NA,NA,"Isaiah Crowell","ISAIAHCROWELL",70,23
+"Â ","Â Rashad Jennings","NYG","11",NA,NA,NA,NA,NA,194,813,6,143.7,"RB",28,204,1,NA,NA,NA,"Rashad Jennings","RASHADJENNINGS",71,24
+"Â ","Â T.J. Yeldon","JAC","8",NA,NA,NA,NA,NA,197,845,5,143.2,"RB",31,227,1,NA,NA,NA,"T.J. Yeldon","TJYELDON",72,25
+"Â ","Â Andre Johnson","IND","10",NA,NA,NA,NA,NA,0,0,0,142.5,"WR",74,945,8,NA,NA,NA,"Andre Johnson","ANDREJOHNSON",73,15
+"Â ","Â Brandin Cooks","NO","11",NA,NA,NA,NA,NA,11,84,0,142.1,"WR",84,977,6,NA,NA,NA,"Brandin Cooks","BRANDINCOOKS",74,16
+"Â ","Â Davante Adams","GB","7",NA,NA,NA,NA,NA,0,0,0,140.4,"WR",76,984,7,NA,NA,NA,"Davante Adams","DAVANTEADAMS",75,17
+"Â ","Â Ameer Abdullah","DET","9",NA,NA,NA,NA,NA,158,678,5,139.7,"RB",42,299,2,NA,NA,NA,"Ameer Abdullah","AMEERABDULLAH",76,26
+"Â ","Â Chris Ivory","NYJ","5",NA,NA,NA,NA,NA,193,848,6,139.5,"RB",29,187,0,NA,NA,NA,"Chris Ivory","CHRISIVORY",77,27
+"Â ","Â DeSean Jackson","WAS","8",NA,NA,NA,NA,NA,4,21,0,138.2,"WR",64,1001,6,NA,NA,NA,"DeSean Jackson","DESEANJACKSON",78,18
+"Â ","Â Doug Martin","TB","6",NA,NA,NA,NA,NA,197,768,6,136.6,"RB",29,178,1,NA,NA,NA,"Doug Martin","DOUGMARTIN",79,28
+"Â ","Â Giovani Bernard","CIN","7",NA,NA,NA,NA,NA,143,587,4,135.8,"RB",51,411,2,NA,NA,NA,"Giovani Bernard","GIOVANIBERNARD",80,29
+"Â ","Â Jimmy Graham","SEA","9",NA,NA,NA,NA,NA,NA,NA,NA,135.7,"TE",72,877,8,NA,NA,NA,"Jimmy Graham","JIMMYGRAHAM",81,2
+"Â ","Â Julian Edelman","NE","4",NA,NA,NA,NA,NA,6,56,0,135.1,"WR",90,935,6,NA,NA,NA,"Julian Edelman","JULIANEDELMAN",82,19
+"Â ","Â Todd Gurley","STL","6",NA,NA,NA,NA,NA,174,816,6,131.2,"RB",18,136,0,NA,NA,NA,"Todd Gurley","TODDGURLEY",83,30
+"Â ","Â Tevin Coleman","ATL","10",NA,NA,NA,NA,NA,166,715,5,131,"RB",31,235,1,NA,NA,NA,"Tevin Coleman","TEVINCOLEMAN",84,31
+"Â ","Â Golden Tate","DET","9",NA,NA,NA,NA,NA,0,0,0,130.6,"WR",70,946,6,NA,NA,NA,"Golden Tate","GOLDENTATE",85,20
+"Â ","Â Greg Olsen","CAR","5",NA,NA,NA,NA,NA,NA,NA,NA,130.5,"TE",82,945,6,NA,NA,NA,"Greg Olsen","GREGOLSEN",86,3
+"Â ","Â Sammy Watkins","BUF","8",NA,NA,NA,NA,NA,0,0,0,129.5,"WR",65,935,6,NA,NA,NA,"Sammy Watkins","SAMMYWATKINS",87,21
+"Â ","Â Vincent Jackson","TB","6",NA,NA,NA,NA,NA,0,0,0,128.6,"WR",63,926,6,NA,NA,NA,"Vincent Jackson","VINCENTJACKSON",88,22
+"Â ","Â Brandon Marshall","NYJ","5",NA,NA,NA,NA,NA,0,0,0,127.7,"WR",71,917,6,NA,NA,NA,"Brandon Marshall","BRANDONMARSHALL",89,23
+"Â ","Â Jarvis Landry","MIA","5",NA,NA,NA,NA,NA,0,0,0,127.6,"WR",74,916,6,NA,NA,NA,"Jarvis Landry","JARVISLANDRY",90,24
+"Â ","Â Keenan Allen","SD","10",NA,NA,NA,NA,NA,0,0,0,127.6,"WR",67,916,6,NA,NA,NA,"Keenan Allen","KEENANALLEN",90,24
+"Â ","Â Joique Bell","DET","9",NA,NA,NA,NA,NA,151,634,6,126.9,"RB",25,215,1,NA,NA,NA,"Joique Bell","JOIQUEBELL",92,32
+"Â ","Â Jeremy Maclin","KC","9",NA,NA,NA,NA,NA,0,0,0,126.2,"WR",66,902,6,NA,NA,NA,"Jeremy Maclin","JEREMYMACLIN",93,26
+"Â ","Â Anquan Boldin","SF","10",NA,NA,NA,NA,NA,0,0,0,125.9,"WR",68,899,6,NA,NA,NA,"Anquan Boldin","ANQUANBOLDIN",94,27
+"Â ","Â Amari Cooper","OAK","6",NA,NA,NA,NA,NA,0,0,0,125.8,"WR",66,898,6,NA,NA,NA,"Amari Cooper","AMARICOOPER",95,28
+"Â ","Â Steve Smith","BAL","9",NA,NA,NA,NA,NA,0,0,0,124.5,"WR",70,945,5,NA,NA,NA,"Steve Smith","STEVESMITH",96,29
+"Â ","Â Mike Wallace","MIN","5",NA,NA,NA,NA,NA,3,29,0,123.3,"WR",55,844,6,NA,NA,NA,"Mike Wallace","MIKEWALLACE",97,30
+"Â ","Â Ryan Mallett","HOU","9",122,201,1545,8,5,40,79,1,123.2,"QB",NA,NA,NA,NA,NA,NA,"Ryan Mallett","RYANMALLETT",98,33
+"Â ","Â Eric Decker","NYJ","5",NA,NA,NA,NA,NA,0,0,0,122.6,"WR",65,866,6,NA,NA,NA,"Eric Decker","ERICDECKER",99,31
+"Â ","Â C.J. Spiller","NO","11",NA,NA,NA,NA,NA,99,446,2,122.2,"RB",61,476,3,NA,NA,NA,"C.J. Spiller","CJSPILLER",100,33
+"Â ","Â Charles Johnson","MIN","5",NA,NA,NA,NA,NA,0,0,0,121.7,"WR",63,857,6,NA,NA,NA,"Charles Johnson","CHARLESJOHNSON",101,32
+"Â ","Â Travis Kelce","KC","9",NA,NA,NA,NA,NA,NA,NA,NA,121.4,"TE",70,854,6,NA,NA,NA,"Travis Kelce","TRAVISKELCE",102,4
+"Â ","Â Arian Foster","HOU","9",NA,NA,NA,NA,NA,148,667,5,118.2,"RB",19,155,1,NA,NA,NA,"Arian Foster","ARIANFOSTER",103,34
+"Â ","Â John Brown","ARI","9",NA,NA,NA,NA,NA,0,0,0,117.7,"WR",59,817,6,NA,NA,NA,"John Brown","JOHNBROWN",104,33
+"Â ","Â Pierre Garcon","WAS","8",NA,NA,NA,NA,NA,0,0,0,115.1,"WR",70,851,5,NA,NA,NA,"Pierre Garcon","PIERREGARCON",105,34
+"Â ","Â Roddy White","ATL","10",NA,NA,NA,NA,NA,0,0,0,115,"WR",71,850,5,NA,NA,NA,"Roddy White","RODDYWHITE",106,35
+"Â ","Â Martellus Bennett","CHI","7",NA,NA,NA,NA,NA,NA,NA,NA,114.7,"TE",75,787,6,NA,NA,NA,"Martellus Bennett","MARTELLUSBENNETT",107,5
+"Â ","Â Torrey Smith","SF","10",NA,NA,NA,NA,NA,0,0,0,113.5,"WR",54,835,5,NA,NA,NA,"Torrey Smith","TORREYSMITH",108,36
+"Â ","Â Kendall Wright","TEN","4",NA,NA,NA,NA,NA,0,0,0,112.7,"WR",67,827,5,NA,NA,NA,"Kendall Wright","KENDALLWRIGHT",109,37
+"Â ","Â Allen Robinson","JAC","8",NA,NA,NA,NA,NA,0,0,0,111.5,"WR",64,815,5,NA,NA,NA,"Allen Robinson","ALLENROBINSON",110,38
+"Â ","Â Doug Baldwin","SEA","9",NA,NA,NA,NA,NA,0,0,0,110.9,"WR",59,749,6,NA,NA,NA,"Doug Baldwin","DOUGBALDWIN",111,39
+"Â ","Â Marques Colston","NO","11",NA,NA,NA,NA,NA,0,0,0,110.5,"WR",59,805,5,NA,NA,NA,"Marques Colston","MARQUESCOLSTON",112,40
+"Â ","Â Terrance Williams","DAL","6",NA,NA,NA,NA,NA,0,0,0,110.1,"WR",48,741,6,NA,NA,NA,"Terrance Williams","TERRANCEWILLIAMS",113,41
+"Â ","Â Larry Fitzgerald","ARI","9",NA,NA,NA,NA,NA,0,0,0,109.8,"WR",71,858,4,NA,NA,NA,"Larry Fitzgerald","LARRYFITZGERALD",114,42
+"Â ","Â Markus Wheaton","PIT","11",NA,NA,NA,NA,NA,2,13,0,109,"WR",61,777,5,NA,NA,NA,"Markus Wheaton","MARKUSWHEATON",115,43
+"Â ","Â Michael Floyd","ARI","9",NA,NA,NA,NA,NA,0,0,0,108.9,"WR",49,789,5,NA,NA,NA,"Michael Floyd","MICHAELFLOYD",116,44
+"Â ","Â Jason Witten","DAL","6",NA,NA,NA,NA,NA,NA,NA,NA,108.9,"TE",66,729,6,NA,NA,NA,"Jason Witten","JASONWITTEN",116,6
+"Â ","Â Rueben Randle","NYG","11",NA,NA,NA,NA,NA,0,0,0,108.7,"WR",59,787,5,NA,NA,NA,"Rueben Randle","RUEBENRANDLE",118,45
+"Â ","Â Nelson Agholor","PHI","8",NA,NA,NA,NA,NA,0,0,0,108.5,"WR",54,725,6,NA,NA,NA,"Nelson Agholor","NELSONAGHOLOR",119,46
+"Â ","Â Devin Funchess","CAR","5",NA,NA,NA,NA,NA,0,0,0,106.7,"WR",57,767,5,NA,NA,NA,"Devin Funchess","DEVINFUNCHESS",120,47
+"Â ","Â Delanie Walker","TEN","4",NA,NA,NA,NA,NA,NA,NA,NA,105.5,"TE",67,755,5,NA,NA,NA,"Delanie Walker","DELANIEWALKER",121,7
+"Â ","Â Geno Smith","NYJ","5",99,168,1145,7,6,29,135,1,104.8,"QB",NA,NA,NA,NA,NA,NA,"Geno Smith","GENOSMITH",122,34
+"Â ","Â Devonta Freeman","ATL","10",NA,NA,NA,NA,NA,134,535,3,104.1,"RB",39,266,1,NA,NA,NA,"Devonta Freeman","DEVONTAFREEMAN",123,35
+"Â ","Â Kenny Stills","MIA","5",NA,NA,NA,NA,NA,0,0,0,102.9,"WR",50,729,5,NA,NA,NA,"Kenny Stills","KENNYSTILLS",124,48
+"Â ","Â Kenny Britt","STL","6",NA,NA,NA,NA,NA,0,0,0,101.8,"WR",49,718,5,NA,NA,NA,"Kenny Britt","KENNYBRITT",125,49
+"Â ","Â Alfred Blue","HOU","9",NA,NA,NA,NA,NA,165,645,3,99.6,"RB",14,111,1,NA,NA,NA,"Alfred Blue","ALFREDBLUE",126,36
+"","Â Miles Austin","CLE","4",NA,NA,NA,NA,NA,0,0,0,99.5,"WR",52,695,5,NA,NA,NA,"Miles Austin","MILESAUSTIN",127,50
+"Â ","Â Greg Jennings","MIN","10",NA,NA,NA,NA,NA,0,0,0,98.7,"WR",61,747,4,NA,NA,NA,"Greg Jennings","GREGJENNINGS",128,51
+"Â ","Â Coby Fleener","IND","10",NA,NA,NA,NA,NA,NA,NA,NA,98.5,"TE",60,685,5,NA,NA,NA,"Coby Fleener","COBYFLEENER",129,8
+"Â ","Â Brandin Cooks","NO","6",NA,NA,NA,NA,NA,0,0,0,97.7,"WR",49,677,5,NA,NA,NA,"Brandin Cooks","BRANDINCOOKS",130,52
+"Â ","Â Steve Smith","BAL","11",NA,NA,NA,NA,NA,0,0,0,96.7,"WR",54,727,4,NA,NA,NA,"Steve Smith","STEVESMITH",131,53
+"Â ","Â Shane Vereen","NYG","11",NA,NA,NA,NA,NA,103,424,2,95.9,"RB",48,355,1,NA,NA,NA,"Shane Vereen","SHANEVEREEN",132,37
+"Â ","Â Danny Amendola","NE","10",NA,NA,NA,NA,NA,0,0,0,95.8,"WR",60,718,4,NA,NA,NA,"Danny Amendola","DANNYAMENDOLA",133,54
+"Â ","Â Doug Baldwin","SEA","4",NA,NA,NA,NA,NA,0,0,0,95.5,"WR",48,655,5,NA,NA,NA,"Doug Baldwin","DOUGBALDWIN",134,55
+"Â ","Â Vernon Davis","SF","10",NA,NA,NA,NA,NA,NA,NA,NA,94.7,"TE",52,647,5,NA,NA,NA,"Vernon Davis","VERNONDAVIS",135,9
+"Â ","Â Mark Sanchez","PHI","8",98,158,1156,8,6,16,44,0,94.2,"QB",NA,NA,NA,NA,NA,NA,"Mark Sanchez","MARKSANCHEZ",136,35
+"","Â Andrew Hawkins","CLE","4",NA,NA,NA,NA,NA,5,45,0,93.2,"WR",56,647,4,NA,NA,NA,"Andrew Hawkins","ANDREWHAWKINS",137,56
+"Â ","Â Dwayne Allen","IND","10",NA,NA,NA,NA,NA,NA,NA,NA,92.6,"TE",48,566,6,NA,NA,NA,"Dwayne Allen","DWAYNEALLEN",138,10
+"Â ","Â Harry Douglas","ATL","9",NA,NA,NA,NA,NA,0,0,0,91.5,"WR",53,675,4,NA,NA,NA,"Harry Douglas","HARRYDOUGLAS",139,57
+"Â ","Â Owen Daniels","DEN","7",NA,NA,NA,NA,NA,NA,NA,NA,91.3,"TE",57,613,5,NA,NA,NA,"Owen Daniels","OWENDANIELS",140,11
+"Â ","Â Kyle Rudolph","MIN","5",NA,NA,NA,NA,NA,NA,NA,NA,89.5,"TE",56,595,5,NA,NA,NA,"Kyle Rudolph","KYLERUDOLPH",141,12
+"Â ","Â Darren McFadden","DAL","6",NA,NA,NA,NA,NA,106,456,4,89.4,"RB",21,138,1,NA,NA,NA,"Darren McFadden","DARRENMCFADDEN",142,38
+"Â ","Â Darren Sproles","PHI","8",NA,NA,NA,NA,NA,60,288,2,88.3,"RB",48,415,1,NA,NA,NA,"Darren Sproles","DARRENSPROLES",143,39
+"","Â Duke Johnson","CLE","11",NA,NA,NA,NA,NA,111,489,3,88.2,"RB",28,213,0,NA,NA,NA,"Duke Johnson","DUKEJOHNSON",144,40
+"Â ","Â Antonio Gates","SD","10",NA,NA,NA,NA,NA,NA,NA,NA,87.8,"TE",45,518,6,NA,NA,NA,"Antonio Gates","ANTONIOGATES",145,13
+"Â ","Â Ryan Mathews","PHI","8",NA,NA,NA,NA,NA,120,515,4,87,"RB",15,115,0,NA,NA,NA,"Ryan Mathews","RYANMATHEWS",146,41
+"Â ","Â Malcom Floyd","SD","10",NA,NA,NA,NA,NA,0,0,0,86.5,"WR",46,625,4,NA,NA,NA,"Malcom Floyd","MALCOMFLOYD",147,58
+"","Â Zach Ertz","PHI","8",NA,NA,NA,NA,NA,NA,NA,NA,86.5,"TE",50,625,4,NA,NA,NA,"Zach Ertz","ZACHERTZ",147,14
+"Â ","Â Heath Miller","PIT","11",NA,NA,NA,NA,NA,NA,NA,NA,86.4,"TE",58,624,4,NA,NA,NA,"Heath Miller","HEATHMILLER",149,15
+"Â ","Â Justin Hunter","TEN","9",NA,NA,NA,NA,NA,0,0,0,86,"WR",39,620,4,NA,NA,NA,"Justin Hunter","JUSTINHUNTER",150,59
+"Â ","Â Rod Streater","OAK","5",NA,NA,NA,NA,NA,0,0,0,85.5,"WR",47,615,4,NA,NA,NA,"Rod Streater","RODSTREATER",151,60
+"Â ","Â Kenny Britt","STL","4",NA,NA,NA,NA,NA,0,0,0,85.3,"WR",44,613,4,NA,NA,NA,"Kenny Britt","KENNYBRITT",152,61
+"","Â Bishop Sankey","TEN","4",NA,NA,NA,NA,NA,137,547,3,85.2,"RB",17,125,0,NA,NA,NA,"Bishop Sankey","BISHOPSANKEY",153,42
+"Â ","Â Josh Hill","NO","11",NA,NA,NA,NA,NA,NA,NA,NA,84.8,"TE",52,548,5,NA,NA,NA,"Josh Hill","JOSHHILL",154,16
+"Â ","Â Danny Woodhead","SD","10",NA,NA,NA,NA,NA,61,245,1,84.7,"RB",51,422,2,NA,NA,NA,"Danny Woodhead","DANNYWOODHEAD",155,43
+"Â ","Â Jordan Cameron","MIA","5",NA,NA,NA,NA,NA,NA,NA,NA,84.5,"TE",54,605,4,NA,NA,NA,"Jordan Cameron","JORDANCAMERON",156,17
+"Â ","Â Roy Helu","OAK","6",NA,NA,NA,NA,NA,79,346,2,83.6,"RB",42,310,1,NA,NA,NA,"Roy Helu","ROYHELU",157,44
+"Â ","Â Charles Clay","BUF","8",NA,NA,NA,NA,NA,NA,NA,NA,83.1,"TE",56,591,4,NA,NA,NA,"Charles Clay","CHARLESCLAY",158,18
+"Â ","Â Jordan Reed","WAS","8",NA,NA,NA,NA,NA,NA,NA,NA,82.7,"TE",51,587,4,NA,NA,NA,"Jordan Reed","JORDANREED",159,19
+"","Â Mike Williams","BUF","9",NA,NA,NA,NA,NA,0,0,0,82.5,"WR",43,585,4,NA,NA,NA,"Mike Williams","MIKEWILLIAMS",160,62
+"Â ","Â Tyler Eifert","CIN","7",NA,NA,NA,NA,NA,NA,NA,NA,82.1,"TE",55,581,4,NA,NA,NA,"Tyler Eifert","TYLEREIFERT",161,20
+"Â ","Â Knile Davis","KC","9",NA,NA,NA,NA,NA,128,485,4,81.9,"RB",12,94,0,NA,NA,NA,"Knile Davis","KNILEDAVIS",162,45
+"Â ","Â Jared Cook","STL","6",NA,NA,NA,NA,NA,NA,NA,NA,81.9,"TE",48,579,4,NA,NA,NA,"Jared Cook","JAREDCOOK",162,21
+"Â ","Â Johnny Manziel","CLE","11",84,140,922,5,5,19,86,1,80.7,"QB",NA,NA,NA,NA,NA,NA,"Johnny Manziel","JOHNNYMANZIEL",164,36
+"Â ","Â Marqise Lee","JAC","11",NA,NA,NA,NA,NA,0,0,0,80.5,"WR",44,565,4,NA,NA,NA,"Marqise Lee","MARQISELEE",165,63
+"Â ","Â Tre Mason","STL","6",NA,NA,NA,NA,NA,115,505,3,80.3,"RB",16,118,0,NA,NA,NA,"Tre Mason","TREMASON",166,46
+"Â ","Â Charles Sims","TB","6",NA,NA,NA,NA,NA,99,406,3,80,"RB",32,214,0,NA,NA,NA,"Charles Sims","CHARLESSIMS",167,47
+"Â ","Â Hakeem Nicks","IND","10",NA,NA,NA,NA,NA,0,0,0,79,"WR",38,550,4,NA,NA,NA,"Hakeem Nicks","HAKEEMNICKS",168,64
+"Â ","Â Jordan Matthews","PHI","7",NA,NA,NA,NA,NA,0,0,0,78.9,"WR",41,549,4,NA,NA,NA,"Jordan Matthews","JORDANMATTHEWS",169,65
+"Â ","Â EJ Manuel","BUF","8",82,140,936,6,4,20,78,0,78.6,"QB",NA,NA,NA,NA,NA,NA,"EJ Manuel","EJMANUEL",170,37
+"Â ","Â Austin Seferian-Jenkins","TB","6",NA,NA,NA,NA,NA,NA,NA,NA,76.2,"TE",58,582,3,NA,NA,NA,"Austin Seferian-Jenkins","AUSTINSEFERIANJENKINS",171,22
+"","Â Robert Woods","BUF","9",NA,NA,NA,NA,NA,2,21,0,75.4,"WR",40,553,3,NA,NA,NA,"Robert Woods","ROBERTWOODS",172,66
+"Â ","Â Odell Beckham Jr.","NYG","8",NA,NA,NA,NA,NA,3,21,0,74.6,"WR",40,545,3,NA,NA,NA,"Odell Beckham Jr.","ODELLBECKHAM",173,67
+"","Â Terrance West","CLE","4",NA,NA,NA,NA,NA,101,436,3,74.2,"RB",20,126,0,NA,NA,NA,"Terrance West","TERRANCEWEST",174,48
+"Â ","Â Marvin Jones","CIN","4",NA,NA,NA,NA,NA,5,44,0,74,"WR",38,516,3,NA,NA,NA,"Marvin Jones","MARVINJONES",175,68
+"Â ","Â Reggie Bush","SF","10",NA,NA,NA,NA,NA,67,276,1,73.8,"RB",44,342,1,NA,NA,NA,"Reggie Bush","REGGIEBUSH",176,49
+"Â ","Â Jerricho Cotchery","CAR","12",NA,NA,NA,NA,NA,0,0,0,73.6,"WR",39,496,4,NA,NA,NA,"Jerricho Cotchery","JERRICHOCOTCHERY",177,69
+"Â ","Â Richard Rodgers","GB","7",NA,NA,NA,NA,NA,NA,NA,NA,73.5,"TE",40,435,5,NA,NA,NA,"Richard Rodgers","RICHARDRODGERS",178,23
+"Â ","Â Damien Williams","MIA","5",NA,NA,NA,NA,NA,103,403,3,72.8,"RB",19,145,0,NA,NA,NA,"Damien Williams","DAMIENWILLIAMS",179,50
+"Â ","Â Carlos Hyde","SF","8",NA,NA,NA,NA,NA,101,445,4,72.8,"RB",6,43,0,NA,NA,NA,"Carlos Hyde","CARLOSHYDE",179,50
+"Â ","Â Marcel Reece","OAK","5",NA,NA,NA,NA,NA,51,229,1,72.3,"RB",36,314,2,NA,NA,NA,"Marcel Reece","MARCELREECE",181,52
+"Â ","Â Denard Robinson","JAC","11",NA,NA,NA,NA,NA,75,345,2,72,"RB",25,195,1,NA,NA,NA,"Denard Robinson","DENARDROBINSON",182,53
+"Â ","Â Larry Donnell","NYG","11",NA,NA,NA,NA,NA,NA,NA,NA,71.5,"TE",47,475,4,NA,NA,NA,"Larry Donnell","LARRYDONNELL",183,24
+"Â ","Â Andre Williams","NYG","8",NA,NA,NA,NA,NA,95,397,4,71.4,"RB",9,77,0,NA,NA,NA,"Andre Williams","ANDREWILLIAMS",184,54
+"Â ","Â Donnie Avery","KC","6",NA,NA,NA,NA,NA,0,0,0,70.9,"WR",36,529,3,NA,NA,NA,"Donnie Avery","DONNIEAVERY",185,70
+"Â ","Â Eric Ebron","DET","9",NA,NA,NA,NA,NA,NA,NA,NA,69.3,"TE",49,513,3,NA,NA,NA,"Eric Ebron","ERICEBRON",186,25
+"Â ","Â Julius Thomas","JAC","8",NA,NA,NA,NA,NA,NA,NA,NA,69.2,"TE",45,512,3,NA,NA,NA,"Julius Thomas","JULIUSTHOMAS",187,26
+"Â ","Â Nate Washington","TEN","9",NA,NA,NA,NA,NA,0,0,0,69.1,"WR",33,511,3,NA,NA,NA,"Nate Washington","NATEWASHINGTON",188,71
+"Â ","Â Ahmad Bradshaw","IND","10",NA,NA,NA,NA,NA,93,411,2,67.8,"RB",20,147,0,NA,NA,NA,"Ahmad Bradshaw","AHMADBRADSHAW",189,55
+"Â ","Â Knile Davis","KC","6",NA,NA,NA,NA,NA,94,395,3,67.6,"RB",13,101,0,NA,NA,NA,"Knile Davis","KNILEDAVIS",190,56
+"Â ","Â Dexter McCluster","TEN","9",NA,NA,NA,NA,NA,50,201,0,67.6,"RB",50,355,2,NA,NA,NA,"Dexter McCluster","DEXTERMCCLUSTER",190,56
+"Â ","Â Jacquizz Rodgers","ATL","9",NA,NA,NA,NA,NA,70,287,1,67.3,"RB",40,266,1,NA,NA,NA,"Jacquizz Rodgers","JACQUIZZRODGERS",192,58
+"Â ","Â LeGarrette Blount","PIT","12",NA,NA,NA,NA,NA,94,396,4,67,"RB",6,34,0,NA,NA,NA,"LeGarrette Blount","LEGARRETTEBLOUNT",193,59
+"Â ","Â Mohamed Sanu","CIN","4",NA,NA,NA,NA,NA,0,0,0,66.9,"WR",38,489,3,NA,NA,NA,"Mohamed Sanu","MOHAMEDSANU",194,72
+"Â ","Â David Nelson","NYJ","11",NA,NA,NA,NA,NA,0,0,0,66.9,"WR",36,489,3,NA,NA,NA,"David Nelson","DAVIDNELSON",194,72
+"","Â John Brown","ARI","4",NA,NA,NA,NA,NA,0,0,0,65.7,"WR",35,477,3,NA,NA,NA,"John Brown","JOHNBROWN",196,74
+"Â ","Â Mychal Rivera","OAK","6",NA,NA,NA,NA,NA,NA,NA,NA,65.5,"TE",44,475,3,NA,NA,NA,"Mychal Rivera","MYCHALRIVERA",197,27
+"Â ","Â Jeremy Kerley","NYJ","11",NA,NA,NA,NA,NA,0,0,0,64.9,"WR",37,469,3,NA,NA,NA,"Jeremy Kerley","JEREMYKERLEY",198,75
+"Â ","Â Ladarius Green","SD","10",NA,NA,NA,NA,NA,NA,NA,NA,62.9,"TE",38,449,3,NA,NA,NA,"Ladarius Green","LADARIUSGREEN",199,28
+"Â ","Â Brian Quick","STL","4",NA,NA,NA,NA,NA,0,0,0,60.9,"WR",28,429,3,NA,NA,NA,"Brian Quick","BRIANQUICK",200,76
+"Â ","Â Steve Johnson","SF","8",NA,NA,NA,NA,NA,0,0,0,60.6,"WR",38,486,2,NA,NA,NA,"Steve Johnson","STEVEJOHNSON",201,77
+"Â ","Â Andre Roberts","WAS","10",NA,NA,NA,NA,NA,0,0,0,60.2,"WR",38,422,3,NA,NA,NA,"Andre Roberts","ANDREROBERTS",202,78
+"Â ","Â Jermaine Kearse","SEA","4",NA,NA,NA,NA,NA,0,0,0,59.7,"WR",32,417,3,NA,NA,NA,"Jermaine Kearse","JERMAINEKEARSE",203,79
+"Â ","Â Lance Moore","PIT","12",NA,NA,NA,NA,NA,0,0,0,59.5,"WR",32,415,3,NA,NA,NA,"Lance Moore","LANCEMOORE",204,80
+"Â ","Â Bilal Powell","NYJ","11",NA,NA,NA,NA,NA,71,282,2,58.7,"RB",26,185,0,NA,NA,NA,"Bilal Powell","BILALPOWELL",205,60
+"Â ","Â Roy Helu","WAS","10",NA,NA,NA,NA,NA,73,329,0,57.3,"RB",33,244,0,NA,NA,NA,"Roy Helu","ROYHELU",206,61
+"Â ","Â Jonathan Grimes","HOU","10",NA,NA,NA,NA,NA,77,324,3,57.3,"RB",11,69,0,NA,NA,NA,"Jonathan Grimes","JONATHANGRIMES",206,61
+"Â ","Â C.J. Anderson","DEN","4",NA,NA,NA,NA,NA,64,277,3,57,"RB",17,113,0,NA,NA,NA,"C.J. Anderson","CJANDERSON",208,63
+"Â ","Â Brent Celek","PHI","8",NA,NA,NA,NA,NA,NA,NA,NA,56.5,"TE",31,385,3,NA,NA,NA,"Brent Celek","BRENTCELEK",209,29
+"Â ","Â James Starks","GB","9",NA,NA,NA,NA,NA,82,345,2,55.9,"RB",14,94,0,NA,NA,NA,"James Starks","JAMESSTARKS",210,64
+"Â ","Â James White","NE","10",NA,NA,NA,NA,NA,78,311,3,55.5,"RB",8,64,0,NA,NA,NA,"James White","JAMESWHITE",211,65
+"","Â Travis Benjamin","CLE","4",NA,NA,NA,NA,NA,0,0,0,55.5,"WR",32,375,3,NA,NA,NA,"Travis Benjamin","TRAVISBENJAMIN",211,81
+"Â ","Â Joe Morgan","NO","6",NA,NA,NA,NA,NA,0,0,0,54.1,"WR",20,361,3,NA,NA,NA,"Joe Morgan","JOEMORGAN",213,82
+"Â ","Â Chris Owusu","TB","7",NA,NA,NA,NA,NA,0,0,0,52.7,"WR",38,407,2,NA,NA,NA,"Chris Owusu","CHRISOWUSU",214,83
+"Â ","Â Crockett Gillmore","BAL","9",NA,NA,NA,NA,NA,NA,NA,NA,52.1,"TE",32,341,3,NA,NA,NA,"Crockett Gillmore","CROCKETTGILLMORE",215,30
+"Â ","Â Clive Walford","OAK","6",NA,NA,NA,NA,NA,NA,NA,NA,51.9,"TE",29,339,3,NA,NA,NA,"Clive Walford","CLIVEWALFORD",216,31
+"","Â Jason Avant","CAR","12",NA,NA,NA,NA,NA,0,0,0,51.5,"WR",31,395,2,NA,NA,NA,"Jason Avant","JASONAVANT",217,84
+"Â ","Â Denarius Moore","OAK","5",NA,NA,NA,NA,NA,0,0,0,50.7,"WR",26,387,2,NA,NA,NA,"Denarius Moore","DENARIUSMOORE",218,85
+"Â ","Â Donald Brown","SD","10",NA,NA,NA,NA,NA,75,315,2,50.4,"RB",10,69,0,NA,NA,NA,"Donald Brown","DONALDBROWN",219,66
+"Â ","Â Lance Kendricks","STL","6",NA,NA,NA,NA,NA,NA,NA,NA,49.6,"TE",28,316,3,NA,NA,NA,"Lance Kendricks","LANCEKENDRICKS",220,32
+"Â ","Â Colt McCoy","WAS","8",50,79,555,5,3,4,13,0,49.1,"QB",NA,NA,NA,NA,NA,NA,"Colt McCoy","COLTMCCOY",221,38
+"Â ","Â Junior Hemingway","KC","6",NA,NA,NA,NA,NA,0,0,0,47.6,"WR",27,356,2,NA,NA,NA,"Junior Hemingway","JUNIORHEMINGWAY",222,86
+"Â ","Â Christine Michael","SEA","4",NA,NA,NA,NA,NA,60,276,2,47.3,"RB",11,77,0,NA,NA,NA,"Christine Michael","CHRISTINEMICHAEL",223,67
+"Â ","Â Brandon Gibson","MIA","5",NA,NA,NA,NA,NA,0,0,0,47,"WR",26,350,2,NA,NA,NA,"Brandon Gibson","BRANDONGIBSON",224,87
+"","Â Jerrel Jernigan","NYG","8",NA,NA,NA,NA,NA,0,0,0,46.6,"WR",29,346,2,NA,NA,NA,"Jerrel Jernigan","JERRELJERNIGAN",225,88
+"","Â Isaiah Crowell","CLE","4",NA,NA,NA,NA,NA,62,255,2,46.4,"RB",15,89,0,NA,NA,NA,"Isaiah Crowell","ISAIAHCROWELL",226,68
+"Â ","Â Benny Cunningham","STL","4",NA,NA,NA,NA,NA,69,319,1,46.3,"RB",12,84,0,NA,NA,NA,"Benny Cunningham","BENNYCUNNINGHAM",227,69
+"Â ","Â Jonathan Dwyer","ARI","4",NA,NA,NA,NA,NA,61,245,2,46.1,"RB",13,96,0,NA,NA,NA,"Jonathan Dwyer","JONATHANDWYER",228,70
+"Â ","Â Eddie Royal","SD","10",NA,NA,NA,NA,NA,0,0,0,45.6,"WR",30,336,2,NA,NA,NA,"Eddie Royal","EDDIEROYAL",229,89
+"Â ","Â Scott Chandler","NE","4",NA,NA,NA,NA,NA,NA,NA,NA,45.6,"TE",25,276,3,NA,NA,NA,"Scott Chandler","SCOTTCHANDLER",229,33
+"Â ","Â Jeff Cumberland","NYJ","5",NA,NA,NA,NA,NA,NA,NA,NA,45.3,"TE",33,333,2,NA,NA,NA,"Jeff Cumberland","JEFFCUMBERLAND",231,34
+"Â ","Â Ben Watson","NO","11",NA,NA,NA,NA,NA,NA,NA,NA,44.3,"TE",31,323,2,NA,NA,NA,"Ben Watson","BENJAMINWATSON",232,35
+"Â ","Â Chris Givens","STL","4",NA,NA,NA,NA,NA,0,0,0,43.5,"WR",20,315,2,NA,NA,NA,"Chris Givens","CHRISGIVENS",233,90
+"","Â Robert Housler","CLE","11",NA,NA,NA,NA,NA,NA,NA,NA,43.5,"TE",29,315,2,NA,NA,NA,"Robert Housler","ROBERTHOUSLER",233,36
+"Â ","Â Garrett Graham","HOU","9",NA,NA,NA,NA,NA,NA,NA,NA,43.5,"TE",32,315,2,NA,NA,NA,"Garrett Graham","GARRETTGRAHAM",233,36
+"Â ","Â Marcedes Lewis","JAC","8",NA,NA,NA,NA,NA,NA,NA,NA,43.5,"TE",29,315,2,NA,NA,NA,"Marcedes Lewis","MARCEDESLEWIS",233,36
+"","Â Maxx Williams","BAL","9",NA,NA,NA,NA,NA,NA,NA,NA,42.8,"TE",27,308,2,NA,NA,NA,"Maxx Williams","MAXXWILLIAMS",237,39
+"Â ","Â Andrew Quarless","GB","7",NA,NA,NA,NA,NA,NA,NA,NA,41.5,"TE",25,295,2,NA,NA,NA,"Andrew Quarless","ANDREWQUARLESS",238,40
+"Â ","Â Jacob Tamme","ATL","10",NA,NA,NA,NA,NA,NA,NA,NA,40.8,"TE",27,288,2,NA,NA,NA,"Jacob Tamme","JACOBTAMME",239,41
+"Â ","Â Marquise Goodwin","BUF","9",NA,NA,NA,NA,NA,0,0,0,40.2,"WR",26,342,1,NA,NA,NA,"Marquise Goodwin","MARQUISEGOODWIN",240,91
+"Â ","Â Levine Toilolo","ATL","10",NA,NA,NA,NA,NA,NA,NA,NA,40.2,"TE",29,282,2,NA,NA,NA,"Levine Toilolo","LEVINETOILOLO",240,42
+"Â ","Â Mike James","TB","7",NA,NA,NA,NA,NA,61,269,1,39.6,"RB",11,67,0,NA,NA,NA,"Mike James","MIKEJAMES",242,71
+"Â ","Â Robert Turbin","SEA","4",NA,NA,NA,NA,NA,54,236,1,39.5,"RB",12,99,0,NA,NA,NA,"Robert Turbin","ROBERTTURBIN",243,72
+"Â ","Â Andre Caldwell","DEN","4",NA,NA,NA,NA,NA,0,0,0,39.5,"WR",20,275,2,NA,NA,NA,"Andre Caldwell","ANDRECALDWELL",243,92
+"Â ","Â Virgil Green","DEN","7",NA,NA,NA,NA,NA,NA,NA,NA,38.6,"TE",25,266,2,NA,NA,NA,"Virgil Green","VIRGILGREEN",245,43
+"Â ","Â Ka'Deem Carey","CHI","9",NA,NA,NA,NA,NA,52,224,1,38.1,"RB",14,97,0,NA,NA,NA,"Ka'Deem Carey","KADEEMCAREY",246,73
+"Â ","Â Marlon Brown","BAL","11",NA,NA,NA,NA,NA,0,0,0,38.1,"WR",26,321,1,NA,NA,NA,"Marlon Brown","MARLONBROWN",246,93
+"","Â Ryan Broyles","DET","9",NA,NA,NA,NA,NA,0,0,0,38,"WR",23,320,1,NA,NA,NA,"Ryan Broyles","RYANBROYLES",248,94
+"Â ","Â Tre Mason","STL","4",NA,NA,NA,NA,NA,61,285,1,37.4,"RB",4,29,0,NA,NA,NA,"Tre Mason","TREMASON",249,74
+"Â ","Â Jermaine Gresham","ARI","9",NA,NA,NA,NA,NA,NA,NA,NA,36.6,"TE",29,306,1,NA,NA,NA,"Jermaine Gresham","JERMAINEGRESHAM",250,44
+"Â ","Â Zach Mettenberger","TEN","4",40,68,466,3,2,3,11,0,36.4,"QB",NA,NA,NA,NA,NA,NA,"Zach Mettenberger","ZACHMETTENBERGER",251,39
+"Â ","Â Cody Latimer","DEN","4",NA,NA,NA,NA,NA,0,0,0,34.9,"WR",17,229,2,NA,NA,NA,"Cody Latimer","CODYLATIMER",252,95
+"Â ","Â Cole Beasley","DAL","11",NA,NA,NA,NA,NA,0,0,0,34.9,"WR",23,289,1,NA,NA,NA,"Cole Beasley","COLEBEASLEY",252,95
+"Â ","Â Jerome Simpson","MIN","10",NA,NA,NA,NA,NA,0,0,0,34.7,"WR",20,287,1,NA,NA,NA,"Jerome Simpson","JEROMESIMPSON",254,97
+"Â ","Â Martavis Bryant","PIT","12",NA,NA,NA,NA,NA,0,0,0,34.6,"WR",22,286,1,NA,NA,NA,"Martavis Bryant","MARTAVISBRYANT",255,98
+"Â ","Â Stepfan Taylor","ARI","4",NA,NA,NA,NA,NA,49,196,1,33.8,"RB",12,82,0,NA,NA,NA,"Stepfan Taylor","STEPFANTAYLOR",256,75
+"Â ","Â Bryce Brown","BUF","9",NA,NA,NA,NA,NA,54,267,1,33.8,"RB",1,11,0,NA,NA,NA,"Bryce Brown","BRYCEBROWN",256,75
+"Â ","Â Marquess Wilson","CHI","9",NA,NA,NA,NA,NA,0,0,0,33.5,"WR",17,275,1,NA,NA,NA,"Marquess Wilson","MARQUESSWILSON",258,99
+"","Â Chris Polk","PHI","7",NA,NA,NA,NA,NA,53,231,1,32.6,"RB",5,35,0,NA,NA,NA,"Chris Polk","CHRISPOLK",259,77
+"Â ","Â Kenbrell Thompkins","NE","10",NA,NA,NA,NA,NA,0,0,0,32,"WR",15,200,2,NA,NA,NA,"Kenbrell Thompkins","KENBRELLTHOMPKINS",260,100
+"Â ","Â Allen Robinson","JAC","11",NA,NA,NA,NA,NA,0,0,0,31.5,"WR",20,255,1,NA,NA,NA,"Allen Robinson","ALLENROBINSON",261,101
+"Â ","Â Alfred Blue","HOU","10",NA,NA,NA,NA,NA,51,213,1,31,"RB",4,37,0,NA,NA,NA,"Alfred Blue","ALFREDBLUE",262,78
+"Â ","Â Gavin Escobar","DAL","6",NA,NA,NA,NA,NA,NA,NA,NA,30.9,"TE",17,189,2,NA,NA,NA,"Gavin Escobar","GAVINESCOBAR",263,45
+"Â ","Â Keshawn Martin","HOU","10",NA,NA,NA,NA,NA,0,0,0,30.4,"WR",18,244,1,NA,NA,NA,"Keshawn Martin","KESHAWNMARTIN",264,102
+"Â ","Â Davante Adams","GB","9",NA,NA,NA,NA,NA,0,0,0,30.1,"WR",14,241,1,NA,NA,NA,"Davante Adams","DAVANTEADAMS",265,103
+"Â ","Â Dion Sims","MIA","5",NA,NA,NA,NA,NA,NA,NA,NA,29.5,"TE",15,175,2,NA,NA,NA,"Dion Sims","DIONSIMS",266,46
+"Â ","Â Bobby Rainey","TB","7",NA,NA,NA,NA,NA,44,186,1,29,"RB",7,44,0,NA,NA,NA,"Bobby Rainey","BOBBYRAINEY",267,79
+"Â ","Â Shaun Draughn","CHI","9",NA,NA,NA,NA,NA,48,187,1,28.7,"RB",5,40,0,NA,NA,NA,"Shaun Draughn","SHAUNDRAUGHN",268,80
+"Â ","Â Aaron Dobson","NE","10",NA,NA,NA,NA,NA,0,0,0,28.5,"WR",16,225,1,NA,NA,NA,"Aaron Dobson","AARONDOBSON",269,104
+"Â ","Â Darren Fells","ARI","9",NA,NA,NA,NA,NA,NA,NA,NA,28.5,"TE",20,225,1,NA,NA,NA,"Darren Fells","DARRENFELLS",269,47
+"","Â Dan Herron","IND","10",NA,NA,NA,NA,NA,46,185,1,27.9,"RB",7,34,0,NA,NA,NA,"Dan Herron","DANHERRON",271,81
+"Â ","Â Ace Sanders","JAC","11",NA,NA,NA,NA,NA,0,0,0,27.9,"WR",19,219,1,NA,NA,NA,"Ace Sanders","ACESANDERS",271,105
+"Â ","Â Troy Niklas","ARI","4",NA,NA,NA,NA,NA,NA,NA,NA,27.9,"TE",19,219,1,NA,NA,NA,"Troy Niklas","TROYNIKLAS",271,48
+"Â ","Â Da'Rick Rogers","IND","10",NA,NA,NA,NA,NA,0,0,0,27.6,"WR",14,216,1,NA,NA,NA,"Da'Rick Rogers","DARICKROGERS",274,106
+"Â ","Â Clay Harbor","JAC","11",NA,NA,NA,NA,NA,NA,NA,NA,27.2,"TE",20,212,1,NA,NA,NA,"Clay Harbor","CLAYHARBOR",275,49
+"Â ","Â Andre Holmes","OAK","5",NA,NA,NA,NA,NA,0,0,0,27.1,"WR",14,211,1,NA,NA,NA,"Andre Holmes","ANDREHOLMES",276,107
+"Â ","Â DuJuan Harris","GB","9",NA,NA,NA,NA,NA,36,155,1,26.7,"RB",8,52,0,NA,NA,NA,"DuJuan Harris","DUJUANHARRIS",277,82
+"Â ","Â Jacob Tamme","DEN","4",NA,NA,NA,NA,NA,NA,NA,NA,26.6,"TE",14,146,2,NA,NA,NA,"Jacob Tamme","JACOBTAMME",278,50
+"","Â Paul Richardson","SEA","4",NA,NA,NA,NA,NA,0,0,0,26.1,"WR",14,201,1,NA,NA,NA,"Paul Richardson","PAULRICHARDSON",279,108
+"Â ","Â Brandon Bolden","NE","10",NA,NA,NA,NA,NA,36,176,1,26,"RB",4,24,0,NA,NA,NA,"Brandon Bolden","BRANDONBOLDEN",280,83
+"Â ","Â Allen Hurns","JAC","11",NA,NA,NA,NA,NA,0,0,0,26,"WR",15,200,1,NA,NA,NA,"Allen Hurns","ALLENHURNS",280,109
+"Â ","Â Dri Archer","PIT","12",NA,NA,NA,NA,NA,22,86,0,25.4,"RB",22,168,0,NA,NA,NA,"Dri Archer","DRIARCHER",282,84
+"Â ","Â Mike Glennon","TB","6",26,45,309,2,2,13,16,0,25.1,"QB",NA,NA,NA,NA,NA,NA,"Mike Glennon","MIKEGLENNON",283,40
+"Â ","Â Brandon Bostick","GB","9",NA,NA,NA,NA,NA,NA,NA,NA,24.7,"TE",16,187,1,NA,NA,NA,"Brandon Bostick","BRANDONBOSTICK",284,51
+"Â ","Â Brandon Pettigrew","DET","9",NA,NA,NA,NA,NA,NA,NA,NA,24.6,"TE",19,186,1,NA,NA,NA,"Brandon Pettigrew","BRANDONPETTIGREW",285,52
+"","Â Latavius Murray","OAK","5",NA,NA,NA,NA,NA,41,174,1,24.5,"RB",1,11,0,NA,NA,NA,"Latavius Murray","LATAVIUSMURRAY",286,85
+"Â ","Â Michael Hoomanawanui","NE","10",NA,NA,NA,NA,NA,NA,NA,NA,24.5,"TE",16,185,1,NA,NA,NA,"Michael Hoomanawanui","MICHAELHOOMANAWANUI",286,53
+"Â ","Â A.J. Jenkins","KC","6",NA,NA,NA,NA,NA,0,0,0,23.9,"WR",13,179,1,NA,NA,NA,"A.J. Jenkins","AJJENKINS",288,110
+"Â ","Â Ted Ginn Jr.","ARI","4",NA,NA,NA,NA,NA,3,21,0,23.7,"WR",12,156,1,NA,NA,NA,"Ted Ginn Jr.","TEDGINN",289,111
+"Â ","Â Drew Davis","ATL","9",NA,NA,NA,NA,NA,0,0,0,23.7,"WR",14,177,1,NA,NA,NA,"Drew Davis","DREWDAVIS",289,111
+"","Â Ed Dickson","CAR","12",NA,NA,NA,NA,NA,NA,NA,NA,23.7,"TE",17,177,1,NA,NA,NA,"Ed Dickson","EDDICKSON",289,54
+"Â ","Â Brandon Myers","TB","6",NA,NA,NA,NA,NA,NA,NA,NA,23.4,"TE",17,174,1,NA,NA,NA,"Brandon Myers","BRANDONMYERS",292,55
+"Â ","Â Derek Anderson","CAR","5",24,40,281,2,1,2,4,0,22.5,"QB",NA,NA,NA,NA,NA,NA,"Derek Anderson","DEREKANDERSON",293,41
+"Â ","Â Santonio Holmes","CHI","9",NA,NA,NA,NA,NA,0,0,0,22.5,"WR",12,165,1,NA,NA,NA,"Santonio Holmes","SANTONIOHOLMES",293,113
+"Â ","Â Chad Henne","JAC","8",31,54,341,1,1,3,11,0,22.2,"QB",NA,NA,NA,NA,NA,NA,"Chad Henne","CHADHENNE",295,42
+"Â ","Â Joseph Fauria","DET","9",NA,NA,NA,NA,NA,NA,NA,NA,21.5,"TE",10,95,2,NA,NA,NA,"Joseph Fauria","JOSEPHFAURIA",296,56
+"Â ","Â Jimmy Garoppolo","NE","4",23,39,249,2,1,2,5,0,21,"QB",NA,NA,NA,NA,NA,NA,"Jimmy Garoppolo","JIMMYGAROPPOLO",297,43
+"Â ","Â De'Anthony Thomas","KC","6",NA,NA,NA,NA,NA,19,62,0,20.9,"RB",14,87,1,NA,NA,NA,"De'Anthony Thomas","DEANTHONYTHOMAS",298,86
+"Â ","Â Brandon LaFell","NE","10",NA,NA,NA,NA,NA,0,0,0,20.9,"WR",15,209,0,NA,NA,NA,"Brandon LaFell","BRANDONLAFELL",298,114
+"","Â Frankie Hammond Jr.","KC","6",NA,NA,NA,NA,NA,0,0,0,20.5,"WR",11,145,1,NA,NA,NA,"Frankie Hammond Jr.","FRANKIEHAMMOND",300,115
+"Â ","Â Brandon Weeden","DAL","6",21,35,245,2,0,0,1,0,20.4,"QB",NA,NA,NA,NA,NA,NA,"Brandon Weeden","BRANDONWEEDEN",301,44
+"","Â Theo Riddick","DET","9",NA,NA,NA,NA,NA,40,167,0,20.4,"RB",4,37,0,NA,NA,NA,"Theo Riddick","THEORIDDICK",301,87
+"Â ","Â Jalen Saunders","NYJ","11",NA,NA,NA,NA,NA,0,0,0,20.4,"WR",15,204,0,NA,NA,NA,"Jalen Saunders","JALENSAUNDERS",301,116
+"Â ","Â Logan Paulsen","WAS","10",NA,NA,NA,NA,NA,NA,NA,NA,20.4,"TE",12,144,1,NA,NA,NA,"Logan Paulsen","LOGANPAULSEN",301,57
+"","Â Brandon Tate","CIN","4",NA,NA,NA,NA,NA,0,0,0,20.1,"WR",11,141,1,NA,NA,NA,"Brandon Tate","BRANDONTATE",305,117
+"Â ","Â Jerick McKinnon","MIN","10",NA,NA,NA,NA,NA,20,86,0,19.9,"RB",19,113,0,NA,NA,NA,"Jerick McKinnon","JERICKMCKINNON",306,88
+"Â ","Â T.J. Graham","BUF","9",NA,NA,NA,NA,NA,1,11,0,19.6,"WR",12,185,0,NA,NA,NA,"T.J. Graham","TJGRAHAM",307,118
+"Â ","Â Ryan Griffin","HOU","10",NA,NA,NA,NA,NA,NA,NA,NA,19.5,"TE",13,135,1,NA,NA,NA,"Ryan Griffin","RYANGRIFFIN",308,58
+"Â ","Â Joseph Randle","DAL","11",NA,NA,NA,NA,NA,26,104,0,19.3,"RB",12,89,0,NA,NA,NA,"Joseph Randle","JOSEPHRANDLE",309,89
+"Â ","Â Brandon Lloyd","SF","8",NA,NA,NA,NA,NA,0,0,0,18.9,"WR",9,129,1,NA,NA,NA,"Brandon Lloyd","BRANDONLLOYD",310,119
+"Â ","Â Robert Griffin III","WAS","8",20,32,236,1,1,4,22,0,18,"QB",NA,NA,NA,NA,NA,NA,"Robert Griffin III","ROBERTGRIFFIN",311,45
+"","Â Dwayne Harris","DAL","11",NA,NA,NA,NA,NA,0,0,0,17.7,"WR",9,117,1,NA,NA,NA,"Dwayne Harris","DWAYNEHARRIS",312,120
+"Â ","Â C.J. Fiedorowicz","HOU","10",NA,NA,NA,NA,NA,NA,NA,NA,17.5,"TE",10,115,1,NA,NA,NA,"C.J. Fiedorowicz","CJFIEDOROWICZ",313,59
+"Â ","Â Shaun Hill","MIN","5",23,40,266,1,1,0,0,0,17.3,"QB",NA,NA,NA,NA,NA,NA,"Shaun Hill","SHAUNHILL",314,46
+"Â ","Â AJ McCarron","CIN","7",9,15,101,0,0,0,0,2,17.1,"QB",NA,NA,NA,NA,NA,NA,"AJ McCarron","AJMCCARRON",315,47
+"","Â Seyi Ajirotutu","SD","10",NA,NA,NA,NA,NA,0,0,0,17.1,"WR",8,111,1,NA,NA,NA,"Seyi Ajirotutu","SEYIAJIROTUTU",315,121
+"Â ","Â Robert Housler","ARI","4",NA,NA,NA,NA,NA,NA,NA,NA,16.9,"TE",16,169,0,NA,NA,NA,"Robert Housler","ROBERTHOUSLER",317,60
+"Â ","Â LaMichael James","SF","8",NA,NA,NA,NA,NA,30,145,0,16.8,"RB",4,23,0,NA,NA,NA,"LaMichael James","LAMICHAELJAMES",318,90
+"Â ","Â Jarvis Landry","MIA","5",NA,NA,NA,NA,NA,0,0,0,16.4,"WR",8,104,1,NA,NA,NA,"Jarvis Landry","JARVISLANDRY",319,122
+"Â ","Â Demetrius Harris","KC","6",NA,NA,NA,NA,NA,NA,NA,NA,16.4,"TE",11,104,1,NA,NA,NA,"Demetrius Harris","DEMETRIUSHARRIS",319,61
+"Â ","Â Case Keenum","STL","6",20,34,229,1,1,1,6,0,16.1,"QB",NA,NA,NA,NA,NA,NA,"Case Keenum","CASEKEENUM",321,48
+"Â ","Â Jordan Todman","JAC","11",NA,NA,NA,NA,NA,28,112,0,15.8,"RB",6,46,0,NA,NA,NA,"Jordan Todman","JORDANTODMAN",322,91
+"Â ","Â Santana Moss","WAS","10",NA,NA,NA,NA,NA,0,0,0,15.5,"WR",12,155,0,NA,NA,NA,"Santana Moss","SANTANAMOSS",323,123
+"Â ","Â Blaine Gabbert","SF","10",25,42,264,0,1,1,4,0,13.6,"QB",NA,NA,NA,NA,NA,NA,"Blaine Gabbert","BLAINEGABBERT",324,49
+"","Â Matt Spaeth","PIT","12",NA,NA,NA,NA,NA,NA,NA,NA,13.6,"TE",14,136,0,NA,NA,NA,"Matt Spaeth","MATTSPAETH",324,62
+"Â ","Â Josh Morgan","CHI","9",NA,NA,NA,NA,NA,0,0,0,11.4,"WR",9,114,0,NA,NA,NA,"Josh Morgan","JOSHMORGAN",326,124
+"Â ","Â Devin Hester","ATL","9",NA,NA,NA,NA,NA,0,0,0,10,"WR",7,100,0,NA,NA,NA,"Devin Hester","DEVINHESTER",327,125
+"","Â Silas Redd","WAS","10",NA,NA,NA,NA,NA,16,79,0,9,"RB",1,11,0,NA,NA,NA,"Silas Redd","SILASREDD",328,92
+"Â ","Â DeVier Posey","HOU","10",NA,NA,NA,NA,NA,0,0,0,8.9,"WR",7,89,0,NA,NA,NA,"DeVier Posey","DEVIERPOSEY",329,126
+"Â ","Â Nick Toon","NO","6",NA,NA,NA,NA,NA,0,0,0,8.8,"WR",7,88,0,NA,NA,NA,"Nick Toon","NICKTOON",330,127
+"Â ","Â Vance McDonald","SF","8",NA,NA,NA,NA,NA,NA,NA,NA,8.6,"TE",8,86,0,NA,NA,NA,"Vance McDonald","VANCEMCDONALD",331,63
+"Â ","Â Peyton Hillis","NYG","8",NA,NA,NA,NA,NA,22,82,0,8.2,"RB",0,0,0,NA,NA,NA,"Peyton Hillis","PEYTONHILLIS",332,93
+"Â ","Â John Kuhn","GB","9",NA,NA,NA,NA,NA,9,26,0,8.1,"RB",8,55,0,NA,NA,NA,"John Kuhn","JOHNKUHN",333,94
+"Â ","Â Austin Pettis","STL","4",NA,NA,NA,NA,NA,0,0,0,7.9,"WR",7,79,0,NA,NA,NA,"Austin Pettis","AUSTINPETTIS",334,128
+"Â ","Â Rishard Matthews","MIA","5",NA,NA,NA,NA,NA,0,0,0,7.7,"WR",5,77,0,NA,NA,NA,"Rishard Matthews","RISHARDMATTHEWS",335,129
+"Â ","Â Gary Barnidge","CLE","4",NA,NA,NA,NA,NA,NA,NA,NA,7.7,"TE",7,77,0,NA,NA,NA,"Gary Barnidge","GARYBARNIDGE",335,64
+"Â ","Â Jarius Wright","MIN","10",NA,NA,NA,NA,NA,0,0,0,7.6,"WR",6,76,0,NA,NA,NA,"Jarius Wright","JARIUSWRIGHT",337,130
+"Â ","Â Marcus Lattimore","SF","8",NA,NA,NA,NA,NA,14,60,0,7.1,"RB",2,11,0,NA,NA,NA,"Marcus Lattimore","MARCUSLATTIMORE",338,95
+"Â ","Â Kyle Juszczyk","BAL","11",NA,NA,NA,NA,NA,11,45,0,6.2,"RB",3,17,0,NA,NA,NA,"Kyle Juszczyk","KYLEJUSZCZYK",339,96
+"Â ","Â Donte Moncrief","IND","10",NA,NA,NA,NA,NA,0,0,0,5.8,"WR",4,58,0,NA,NA,NA,"Donte Moncrief","DONTEMONCRIEF",340,131
+"Â ","Â Matt Flynn","GB","9",9,15,104,0,1,0,0,0,5.2,"QB",NA,NA,NA,NA,NA,NA,"Matt Flynn","MATTFLYNN",341,50
+"Â ","Â Tyrod Taylor","BAL","11",9,14,97,0,0,1,3,0,5.2,"QB",NA,NA,NA,NA,NA,NA,"Tyrod Taylor","TYRODTAYLOR",341,50
+"","Â Ryan Nassib","NYG","8",9,14,95,0,0,1,3,0,5.1,"QB",NA,NA,NA,NA,NA,NA,"Ryan Nassib","RYANNASSIB",343,52
+"Â ","Â Brock Osweiler","DEN","4",7,13,89,0,0,0,0,0,4.5,"QB",NA,NA,NA,NA,NA,NA,"Brock Osweiler","BROCKOSWEILER",344,53
+"Â ","Â Justin Forsett","BAL","11",NA,NA,NA,NA,NA,9,37,0,4.1,"RB",1,4,0,NA,NA,NA,"Justin Forsett","JUSTINFORSETT",345,97
+"Â ","Â Michael Cox","NYG","8",NA,NA,NA,NA,NA,5,26,0,3.5,"RB",1,9,0,NA,NA,NA,"Michael Cox","MICHAELCOX",346,98
+"Â ","Â Matt Moore","MIA","5",6,9,66,0,0,0,0,0,3.3,"QB",NA,NA,NA,NA,NA,NA,"Matt Moore","MATTMOORE",347,54
+"Â ","Â Matt Hasselbeck","IND","10",4,7,45,0,0,0,0,0,2.3,"QB",NA,NA,NA,NA,NA,NA,"Matt Hasselbeck","MATTHASSELBECK",348,55
+"Â ","Â Drew Stanton","ARI","4",3,5,42,0,0,0,0,0,2.1,"QB",NA,NA,NA,NA,NA,NA,"Drew Stanton","DREWSTANTON",349,56
+"Â ","Â Derek Anderson","CAR","12",3,4,31,0,0,0,0,0,1.6,"QB",NA,NA,NA,NA,NA,NA,"Derek Anderson","DEREKANDERSON",350,57
